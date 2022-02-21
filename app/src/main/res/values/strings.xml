@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">task3</string>
+    <string name="choose_contact">Выбрать контакт</string>
+    <string name="show_phone_numbers">Показать номера</string>
+    <string name="show_from_sp">Показать из SP</string>
+    <string name="saved_contacts">Сохраненные контакты</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="phone_number">Телефон</string>
+    <string name="email">Почта</string>
+</resources>
